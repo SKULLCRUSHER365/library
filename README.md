@@ -1,11 +1,10 @@
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+LibraryApp is an efficient and user-friendly library management system designed to streamline book cataloging, lending, and tracking processes. It offers librarians and users an intuitive platform to easily get all the books, add any book or update the details of the book. Built with NestJS and TypeScript, LibraryApp ensures secure and seamless interactions, simplifying the management of books within any library setting.
 
 ## Installation : #clone the repository and install the dependencies
 
 ```bash
-$ git clone <repository-url>
+$ git clone <https://github.com/SKULLCRUSHER365/library.git>
 $ cd library-management-api
 $ npm install
 ```
